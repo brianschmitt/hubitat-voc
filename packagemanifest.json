@@ -1,0 +1,17 @@
+{
+    "packageName": "Volvo On Call",
+    "minimumHEVersion": "2.1.9",
+    "author": "Brian Schmitt",
+    "version": "1.0.0",
+    "dateReleased": "2020-07-14",
+    "communityLink": "https://community.hubitat.com/t/",
+    "drivers": [
+        {
+            "id": "25962695-8B19-4359-A9D2-926528BA1951",
+            "name": "Volvo On Call",
+            "namespace": "bgs.voc",
+            "location": "https://raw.githubusercontent.com/brianschmitt/hubitat-voc/master/drivers/Volvo-On-Call.groovy",
+            "required": true
+        }
+    ]
+}
